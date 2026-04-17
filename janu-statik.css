@@ -220,6 +220,14 @@ body {
     display: none;
 }
 
+.question img, .explanation-box img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block;
+    margin: 10px 0;
+}
+
 
 .explanation-box { 
     background-color: #fff3e6; 
